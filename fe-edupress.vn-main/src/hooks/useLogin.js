@@ -5,7 +5,7 @@ const useLogin = () => {
   return useMutation({
     mutationFn: async (data) => {
       const res = await axios.post(
-        "http://localhost:8080/login",
+        "https://edupress-phi.vercel.app/login",
         data
       );
       return res.data;
