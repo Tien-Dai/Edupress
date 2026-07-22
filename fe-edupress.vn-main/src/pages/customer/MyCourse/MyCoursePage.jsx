@@ -24,7 +24,7 @@ const MyCoursePage = () => {
         setError("");
 
         const res = await axios.get(
-          `https://edupress-phi.vercel.app/enrollments/user/${user._id}`
+          `http://localhost:8080/enrollments/user/${user._id}`
         );
 
         console.log("ENROLLMENT RESPONSE:", res.data);
