@@ -1,0 +1,108 @@
+
+
+{
+  "common": {
+    "home": "Home",
+    "login": "Login",
+    "logout": "Logout"
+  },
+  "header": {
+      "nav1": "Home",
+      "nav2": "Courses",
+      "nav3": "Blog",
+      "nav4": "About EduPress",
+      "nav5": "Contact",
+      "mycourse": "My Courses",
+      "search": "Search",
+      "slogan" : "Online Learning Platform",
+      "login": "Login",
+      "register": "Register",
+      "logout": "Logout",
+      "chechkoutHistory": "Checkout History",
+      "changepassword": "Change Password",
+      "notification": "Notification"
+  },
+  "home":{
+    "banner":{
+      "title1": "Learn Faster",
+      "title2": "Master Your Skills!",
+      "content": "Build a strong career with practical courses designed by top experts in every field.",
+      "button": "Explore Courses"
+    },
+    "title_Home": {
+      "title_1": {
+        "title": "Course Categories",
+        "description": "Explore all of our course categories"
+      },
+      "title_2": {
+        "title": "Featured Courses",
+        "description": "Discover our featured courses"
+      },
+      "title_3": {
+        "title": "New Courses",
+        "description": "Explore the latest courses"
+      },
+      "title_4": {
+        "title": "Web Development",
+        "description": "Explore the field of web development"
+      },
+      "title_5": {
+        "title": "Data Science",
+        "description": "Explore data science courses"
+      },
+      "btn": "View All"
+    },
+    "banner_Small": {
+        "title_small": "EXPLORE KNOWLEDGE EVERY DAY",
+        "title_big": "Upgrade Your Skills – Get Career Ready",
+        "content": "Hands-on courses in programming, design, and digital skills. Learn anytime, anywhere with industry experts."
+      },
+    "overview_instructor": {
+      "box_overview": {
+        "box_1": "Students",
+        "box_2": "Courses",
+        "box_3": "Top Instructors",
+        "box_4": "Student Satisfaction"
+      },
+      "box_instructor": {
+        "title": "Become an Instructor on EduPress",
+        "description": "EduPress is a platform that helps you share knowledge, build your personal brand, and generate sustainable income through high-quality online courses.",
+        "benefits": {
+          "benefit_1": "Easily upload and manage your courses.",
+          "benefit_2": "Reach thousands of potential students.",
+          "benefit_3": "Have full control over your teaching schedule and content.",
+          "benefit_4": "Earn transparent and reliable income from your courses."
+        }
+      },
+      "btn": "Register Now"
+    }
+
+
+  },
+  "footer": {
+    "about": {
+      "brand": "EduPress",
+      "description": "EduPress connects learners with trusted experts, offering high-quality courses in technology, soft skills, and career development. Learn anytime, anywhere to be ready for the future."
+    },
+    "support": {
+      "title": "Support",
+      "contact": "Contact",
+      "faq": "FAQ",
+      "policy": "Terms & Policy"
+    },
+    "programs": {
+      "title": "Programs",
+      "web": "Web Development",
+      "data": "Data Science",
+      "mobile": "Mobile App",
+      "all": "All Programs"
+    },
+    "contact": {
+      "title": "Contact",
+      "address": "Address: 1235 New Street, Binh Tan District, Ho Chi Minh City",
+      "phone": "Phone: (0123) 456-789",
+      "email": "Email: support@edupress.vn"
+    },
+    "copyright": "© 2025 EduPress | Online learning platform for future professionals"
+  }
+}

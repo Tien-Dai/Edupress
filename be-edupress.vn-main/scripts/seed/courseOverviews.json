@@ -1,0 +1,266 @@
+[
+  {
+    "course_title": "NodeJS Pro - Tự Học từ số 0 (MVC, REST APIs, SQL/MongoDB)",
+    "overview_name": "Học Tư Duy Xây Dựng Backend Server Cho Website"
+  },
+  {
+    "course_title": "NodeJS Pro - Tự Học từ số 0 (MVC, REST APIs, SQL/MongoDB)",
+    "overview_name": "Hiểu & Làm Chủ Server Backend Node.JS Từ Con Số 0"
+  },
+  {
+    "course_title": "NodeJS Pro - Tự Học từ số 0 (MVC, REST APIs, SQL/MongoDB)",
+    "overview_name": "Thực Hành Các Ví Dụ Server Backend Từ Cơ Bản Tới Nâng Cao"
+  },
+  {
+    "course_title": "NodeJS Pro - Tự Học từ số 0 (MVC, REST APIs, SQL/MongoDB)",
+    "overview_name": "Xây Dựng Ứng Dụng Fullstack React/Node.js với TypeScript"
+  },
+  {
+    "course_title": "NodeJS Pro - Tự Học từ số 0 (MVC, REST APIs, SQL/MongoDB)",
+    "overview_name": "Xây Dựng RESTful APIs Server với ExpressJS Framework (TypeScript)"
+  },
+  {
+    "course_title": "NodeJS Pro - Tự Học từ số 0 (MVC, REST APIs, SQL/MongoDB)",
+    "overview_name": "Thực hành database SQL (MySQL) và NoSQL (MongoDB)"
+  },
+  {
+    "course_title": "NodeJS Pro - Tự Học từ số 0 (MVC, REST APIs, SQL/MongoDB)",
+    "overview_name": "Thực hành Coding, Debugging Node.js với TypeScript"
+  },
+  {
+    "course_title": "NodeJS Pro - Tự Học từ số 0 (MVC, REST APIs, SQL/MongoDB)",
+    "overview_name": "Thực hành ORM (Prisma) và ODM (Mongoose)"
+  },
+  {
+    "course_title": "Khóa Học NestJS Microservices Thực Chiến: Từ Zero Đến Hero",
+    "overview_name": "Thiết kế và triển khai kiến trúc Microservices với NestJS và TypeScript"
+  },
+  {
+    "course_title": "Khóa Học NestJS Microservices Thực Chiến: Từ Zero Đến Hero",
+    "overview_name": "Nắm vững cách thiết kế và implement API Gateway Pattern (BFF)"
+  },
+  {
+    "course_title": "Khóa Học NestJS Microservices Thực Chiến: Từ Zero Đến Hero",
+    "overview_name": "Xây dựng và kết nối các service qua Apache Kafka theo mô hình event-driven"
+  },
+  {
+    "course_title": "Khóa Học NestJS Microservices Thực Chiến: Từ Zero Đến Hero",
+    "overview_name": "Áp dụng được các Design Patterns: Repository, DI, Factory"
+  },
+  {
+    "course_title": "Khóa Học NestJS Microservices Thực Chiến: Từ Zero Đến Hero",
+    "overview_name": "Implement được Error Handling, Logging, Validation trong microservices"
+  },
+  {
+    "course_title": "Khóa Học NestJS Microservices Thực Chiến: Từ Zero Đến Hero",
+    "overview_name": "Thiết kế database với MongoDB và PostgreSQL"
+  },
+  {
+    "course_title": "Khóa Học NestJS Microservices Thực Chiến: Từ Zero Đến Hero",
+    "overview_name": "Tích hợp Keycloak cho authentication và authorization"
+  },
+  {
+    "course_title": "Khóa Học NestJS Microservices Thực Chiến: Từ Zero Đến Hero",
+    "overview_name": "Thiết lập dashboard giám sát bằng Grafana"
+  },
+  {
+    "course_title": "Khóa học NextJS 14-ReactJS-Typescript thực chiến 2024 PRO",
+    "overview_name": "Nắm vững các kiến thức của ReactJS"
+  },
+  {
+    "course_title": "Khóa học NextJS 14-ReactJS-Typescript thực chiến 2024 PRO",
+    "overview_name": "Thành thạo sử dụng Redux (Redux thunk, Redux toolkit)"
+  },
+  {
+    "course_title": "Khóa học NextJS 14-ReactJS-Typescript thực chiến 2024 PRO",
+    "overview_name": "Nắm vững và thành thạo sử dụng NextJS 14 - NextAuth"
+  },
+  {
+    "course_title": "Khóa học NextJS 14-ReactJS-Typescript thực chiến 2024 PRO",
+    "overview_name": "Sử dụng thư viện Material UI để xây dựng giao diện nhanh hơn"
+  },
+  {
+    "course_title": "Khóa học NextJS 14-ReactJS-Typescript thực chiến 2024 PRO",
+    "overview_name": "Biết cách tối ưu code và tăng performance"
+  },
+  {
+    "course_title": "Khóa học NextJS 14-ReactJS-Typescript thực chiến 2024 PRO",
+    "overview_name": "Biết cách phân quyền cho hệ thống trong thực tế"
+  },
+  {
+    "course_title": "Khóa học NextJS 14-ReactJS-Typescript thực chiến 2024 PRO",
+    "overview_name": "Có một dự án chất lượng như dự án thực tế"
+  },
+  {
+    "course_title": "Khóa học NextJS 14-ReactJS-Typescript thực chiến 2024 PRO",
+    "overview_name": "Xây dựng dự với CI-CD như khi đi làm"
+  },
+  {
+    "course_title": "React Pro Max với Next.JS - Làm Chủ React.JS Hiện Đại",
+    "overview_name": "Làm Chủ React Toàn Diện Với Typescript"
+  },
+  {
+    "course_title": "React Pro Max với Next.JS - Làm Chủ React.JS Hiện Đại",
+    "overview_name": "Xây dựng giao diện Admin React với Antd Design/Vite"
+  },
+  {
+    "course_title": "React Pro Max với Next.JS - Làm Chủ React.JS Hiện Đại",
+    "overview_name": "Hiểu rõ cơ chế render React ở Client và Server"
+  },
+  {
+    "course_title": "React Pro Max với Next.JS - Làm Chủ React.JS Hiện Đại",
+    "overview_name": "Rèn luyện tư duy phân tích, tích hợp thư viện javascript với React"
+  },
+  {
+    "course_title": "React Pro Max với Next.JS - Làm Chủ React.JS Hiện Đại",
+    "overview_name": "Nắm vững kiến thức cốt lõi của NextJS và React"
+  },
+  {
+    "course_title": "React Pro Max với Next.JS - Làm Chủ React.JS Hiện Đại",
+    "overview_name": "Thực hành NextJS kết hợp với MUI"
+  },
+  {
+    "course_title": "React Ultimate - React.JS Cơ Bản Từ Z Đến A Cho Beginners",
+    "overview_name": "HỌC đi đôi với THỰC HÀNH, xây dựng ĐAM MÊ về lập trình với REACT"
+  },
+  {
+    "course_title": "React Ultimate - React.JS Cơ Bản Từ Z Đến A Cho Beginners",
+    "overview_name": "Tự tin LÀM CHỦ, NẮM VỮNG những KIẾN THỨC cơ bản, cốt lõi nhất của REACT"
+  },
+  {
+    "course_title": "React Ultimate - React.JS Cơ Bản Từ Z Đến A Cho Beginners",
+    "overview_name": "Có được TƯ DUY lập trình với React, biết cách SEARCH Google khi gặp lỗi"
+  },
+  {
+    "course_title": "React Ultimate - React.JS Cơ Bản Từ Z Đến A Cho Beginners",
+    "overview_name": "HIỂU và LÀM CHỦ React, XÂY DƯNG được các SẢN PHẨM website THỰC TẾ phục vụ mục đích học tập và đi làm"
+  },
+  {
+    "course_title": "React Ultimate - React.JS Cơ Bản Từ Z Đến A Cho Beginners",
+    "overview_name": "Hiểu rõ Lịch Sử Phát Triển của React và Công Nghệ sử dụng với React"
+  },
+  {
+    "course_title": "React Ultimate - React.JS Cơ Bản Từ Z Đến A Cho Beginners",
+    "overview_name": "Cập nhật kiến thức mới nhất với React 18 và React 19"
+  },
+  {
+    "course_title": "Phân tích và trực quan hóa dữ liệu với Tableau",
+    "overview_name": "Phát triển tư duy phân tích và kỹ năng sử dụng dữ liệu hiệu quả"
+  },
+  {
+    "course_title": "Phân tích và trực quan hóa dữ liệu với Tableau",
+    "overview_name": "Làm chủ các thao tác xử lý, làm sạch và kết nối dữ liệu từ nhiều nguồn"
+  },
+  {
+    "course_title": "Phân tích và trực quan hóa dữ liệu với Tableau",
+    "overview_name": "Xây dựng các dashboard tương tác, chuyên nghiệp bằng Tableau."
+  },
+  {
+    "course_title": "Phân tích và trực quan hóa dữ liệu với Tableau",
+    "overview_name": "Biết cách kể chuyện bằng dữ liệu để truyền tải insight cho người xem"
+  },
+  {
+    "course_title": "Phân tích và trực quan hóa dữ liệu với Tableau",
+    "overview_name": "Sẵn sàng cho các vai trò liên quan đến phân tích hoặc trực quan hóa dữ liệu."
+  },
+  {
+    "course_title": "Java Web dễ hiểu - Tự làm Website với AI (2025)",
+    "overview_name": "Hiểu và triển khai mô hình MVC trong lập trình Java Web thực tế"
+  },
+  {
+    "course_title": "Java Web dễ hiểu - Tự làm Website với AI (2025)",
+    "overview_name": "Tạo giao diện website bằng HTML, CSS, Bootstrap kết hợp với JSP, EL và JSTL"
+  },
+  {
+    "course_title": "Java Web dễ hiểu - Tự làm Website với AI (2025)",
+    "overview_name": "Xây dựng backend với Servlet, Model, DAO, SQL Server và xử lý request/response"
+  },
+  {
+    "course_title": "Java Web dễ hiểu - Tự làm Website với AI (2025)",
+    "overview_name": "Kết hợp sức mạnh của AI (ChatGPT, Claude, Cursor AI...) để làm web hiệu quả và làm việc năng suất hơn"
+  },
+  {
+    "course_title": "Optimize Frontend for Beginner (Vietnamese)",
+    "overview_name": "Hiểu rõ các khái niệm cơ bản về tối ưu hóa Frontend"
+  },
+  {
+    "course_title": "Optimize Frontend for Beginner (Vietnamese)",
+    "overview_name": "Xây dựng tư duy tối ưu"
+  },
+  {
+    "course_title": "Optimize Frontend for Beginner (Vietnamese)",
+    "overview_name": "Biết cách sử dụng các kỹ thuật tối ưu phổ biến"
+  },
+  {
+    "course_title": "Optimize Frontend for Beginner (Vietnamese)",
+    "overview_name": "Biết cách sử dụng các công cụ trong việc tối ưu"
+  },
+  {
+    "course_title": "The Web Developer Bootcamp 2025",
+    "overview_name": "The ins and outs of HTML5, CSS3, and Modern JavaScript"
+  },
+  {
+    "course_title": "The Web Developer Bootcamp 2025",
+    "overview_name": "Make REAL web applications using cutting-edge technologies"
+  },
+  {
+    "course_title": "The Web Developer Bootcamp 2025",
+    "overview_name": "Create responsive, accessible, and beautiful layouts"
+  },
+  {
+    "course_title": "The Web Developer Bootcamp 2025",
+    "overview_name": "Recognize and prevent common security exploits like SQL-Injection & XSS"
+  },
+  {
+    "course_title": "The Web Developer Bootcamp 2025",
+    "overview_name": "Continue to learn and grow as a developer, long after the course ends"
+  },
+  {
+    "course_title": "The Web Developer Bootcamp 2025",
+    "overview_name": "Create a blog application from scratch using Node, Express, and MongoDB."
+  },
+  {
+    "course_title": "The Web Developer Bootcamp 2025",
+    "overview_name": "Create a complicated yelp-like application from scratch"
+  },
+  {
+    "course_title": "The Web Developer Bootcamp 2025",
+    "overview_name": "Deploy your applications and work with cloud databases"
+  },
+  {
+    "course_title": "Git a Web Developer Job: Mastering the Modern Workflow",
+    "overview_name": "Build websites using the modern skills, tools, and best-practices that companies are looking for in developers"
+  },
+  {
+    "course_title": "Git a Web Developer Job: Mastering the Modern Workflow",
+    "overview_name": "Write organized, well structured JavaScript and CSS that other developers can easily understand"
+  },
+  {
+    "course_title": "Git a Web Developer Job: Mastering the Modern Workflow",
+    "overview_name": "Confidently apply for web developer jobs knowing you can jump into a dev team and immediately contribute to projects"
+  },
+  {
+    "course_title": "Phân tích dữ liệu bằng R cho người mới bắt đầu",
+    "overview_name": "Các bước cần làm trong phân tích dữ liệu"
+  },
+  {
+    "course_title": "Phân tích dữ liệu bằng R cho người mới bắt đầu",
+    "overview_name": "Ngôn ngữ R cơ bản"
+  },
+  {
+    "course_title": "Phân tích dữ liệu bằng R cho người mới bắt đầu",
+    "overview_name": "Biến đổi dữ liệu"
+  },
+  {
+    "course_title": "Phân tích dữ liệu bằng R cho người mới bắt đầu",
+    "overview_name": "Phân tích thống kê mô tả"
+  },
+  {
+    "course_title": "Phân tích dữ liệu bằng R cho người mới bắt đầu",
+    "overview_name": "Phân tích thống kê suy luận: kiểm định t, phân tích ANOVA, phân tích tương quan"
+  },
+  {
+    "course_title": "Phân tích dữ liệu bằng R cho người mới bắt đầu",
+    "overview_name": "Vẽ đồ thị và biểu đồ"
+  }
+]

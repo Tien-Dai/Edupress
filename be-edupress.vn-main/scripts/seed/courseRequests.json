@@ -1,0 +1,106 @@
+[
+  {
+    "course_title": "NodeJS Pro - Tự Học từ số 0 (MVC, REST APIs, SQL/MongoDB)",
+    "request_name": "Có hiểu cơ bản về HTML, CSS và JavaScript"
+  },
+  {
+    "course_title": "NodeJS Pro - Tự Học từ số 0 (MVC, REST APIs, SQL/MongoDB)",
+    "request_name": "Có hiểu biết về TypeScript"
+  },
+  {
+    "course_title": "NodeJS Pro - Tự Học từ số 0 (MVC, REST APIs, SQL/MongoDB)",
+    "request_name": "Có hiểu biết về React (Frontend) là một lợi thế"
+  },
+  {
+    "course_title": "Khóa Học NestJS Microservices Thực Chiến: Từ Zero Đến Hero",
+    "request_name": "Backend Developer muốn nâng cao kỹ năng với NestJS Microservices"
+  },
+  {
+    "course_title": "Khóa Học NestJS Microservices Thực Chiến: Từ Zero Đến Hero",
+    "request_name": "Fullstack Developer cần hiểu và triển khai kiến trúc microservices trong thực tế"
+  },
+  {
+    "course_title": "Khóa Học NestJS Microservices Thực Chiến: Từ Zero Đến Hero",
+    "request_name": "Sinh viên / Lập trình viên muốn học các công nghệ như Kafka, Keycloak, Redis, Stripe, Docker"
+  },
+  {
+    "course_title": "Khóa Học NestJS Microservices Thực Chiến: Từ Zero Đến Hero",
+    "request_name": "Người đang tìm hiểu Event-Driven Architecture và Saga Pattern"
+  },
+  {
+    "course_title": "Khóa Học NestJS Microservices Thực Chiến: Từ Zero Đến Hero",
+    "request_name": "Developer muốn triển khai hệ thống production-ready với logging & monitoring chuyên nghiệp"
+  },
+  {
+    "course_title": "Khóa học NextJS 14-ReactJS-Typescript thực chiến 2024 PRO",
+    "request_name": "Những bạn muốn trở thành lập trình viên Frontend"
+  },
+  {
+    "course_title": "Khóa học NextJS 14-ReactJS-Typescript thực chiến 2024 PRO",
+    "request_name": "Những sinh viên mới ra trường, hoặc người chuyển ngành muốn có kinh nghiệm thực tế, hoặc project để apply CV"
+  },
+  {
+    "course_title": "React Pro Max với Next.JS - Làm Chủ React.JS Hiện Đại",
+    "request_name": "Các bạn theo đuổi lộ trình trở thành fullstack developer"
+  },
+  {
+    "course_title": "React Pro Max với Next.JS - Làm Chủ React.JS Hiện Đại",
+    "request_name": "Cần học framework Nextjs để xây dựng frontend chuyên nghiệp"
+  },
+  {
+    "course_title": "React Pro Max với Next.JS - Làm Chủ React.JS Hiện Đại",
+    "request_name": "Cần SEO website với React"
+  },
+  {
+    "course_title": "React Ultimate - React.JS Cơ Bản Từ Z Đến A Cho Beginners",
+    "request_name": "Tất cả những bạn mới bắt đầu, những bạn muốn học lập trình với React, đang muốn học và làm chủ React thì đây chính là khóa học các bạn tìm. React Ultimate, chỉ một là đủ."
+  },
+  {
+    "course_title": "Phân tích và trực quan hóa dữ liệu với Tableau",
+    "request_name": "Người mới bắt đầu tìm hiểu về phân tích và trực quan hóa dữ liệu"
+  },
+  {
+    "course_title": "Phân tích và trực quan hóa dữ liệu với Tableau",
+    "request_name": "Sinh viên các trường đại học, nhất là khối ngành kinh tế, kinh doanh"
+  },
+  {
+    "course_title": "Phân tích và trực quan hóa dữ liệu với Tableau",
+    "request_name": "Nhân viên văn phòng có liên quan đến báo cáo, tổng hợp dữ liệu"
+  },
+  {
+    "course_title": "Phân tích và trực quan hóa dữ liệu với Tableau",
+    "request_name": "Chuyên viên Thống kê, chuyên viên Phân tích dữ liệu"
+  },
+  {
+    "course_title": "Java Web dễ hiểu - Tự làm Website với AI (2025)",
+    "request_name": "Sinh viên, người mới học lập trình hoặc người muốn xây dựng website thực tế bằng Java."
+  },
+  {
+    "course_title": "Optimize Frontend for Beginner (Vietnamese)",
+    "request_name": "Lập trình viên Frontend mong muốn nâng cấp kỹ năng tối ưu"
+  },
+  {
+    "course_title": "The Web Developer Bootcamp 2025",
+    "request_name": "This course is for anyone who wants to learn about web development, regardless of previous experience"
+  },
+  {
+    "course_title": "The Web Developer Bootcamp 2025",
+    "request_name": "It's perfect for complete beginners with zero experience"
+  },
+  {
+    "course_title": "The Web Developer Bootcamp 2025",
+    "request_name": "It's also great for anyone who does have some experience in a few of the technologies(like HTML and CSS) but not all"
+  },
+  {
+    "course_title": "The Web Developer Bootcamp 2025",
+    "request_name": "If you want to take ONE COURSE to learn everything you need to know about web development, take this course"
+  },
+  {
+    "course_title": "Git a Web Developer Job: Mastering the Modern Workflow",
+    "request_name": "You'll benefit from this course if you're looking to bridge the gap between what you currently know (HTML & CSS) and what hiring companies want you to know"
+  },
+  {
+    "course_title": "Phân tích dữ liệu bằng R cho người mới bắt đầu",
+    "request_name": "Người tìm hiểu về phân tích dữ liệu, sinh viên, học viên và người làm nghiên cứu"
+  }
+]

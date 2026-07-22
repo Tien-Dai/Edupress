@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "cate_name": "Phát triển web",
+    "icon_key": "web",
+    "quantity": 10,
+    "_id": "69573760d58c9265fe052c10"
+  },
+  {
+    "id": 2,
+    "cate_name": "Khoa học dữ liệu",
+    "icon_key": "data",
+    "quantity": 4,
+    "_id": "69573792d58c9265fe052c24"
+  },
+  {
+    "id": 3,
+    "cate_name": "Ứng dụng di động",
+    "icon_key": "mobile",
+    "quantity": 4,
+    "_id": "695737a9d58c9265fe052c2c"
+  },
+  {
+    "id": 4,
+    "cate_name": "Ngôn ngữ lập trình",
+    "icon_key": "language",
+    "quantity": 6,
+    "_id": "695737b5d58c9265fe052c31"
+  },
+  {
+    "id": 5,
+    "cate_name": "Phát triển trò chơi",
+    "icon_key": "game",
+    "quantity": 9,
+    "_id": "695737bfd58c9265fe052c36"
+  },
+  {
+    "id": 6,
+    "cate_name": "Thiết kế & cơ sở dữ liệu",
+    "icon_key": "designdata",
+    "quantity": 5,
+    "_id": "695737c9d58c9265fe052c3b"
+  },
+  {
+    "id": 7,
+    "cate_name": "Kiểm tra phần mềm",
+    "icon_key": "softwaretest",
+    "quantity": 9,
+    "_id": "695737d2d58c9265fe052c40"
+  },
+  {
+    "id": 8,
+    "cate_name": "Kỹ thuật mềm",
+    "icon_key": "softwarearchitecture",
+    "quantity": 3,
+    "_id": "695737dcd58c9265fe052c45"
+  }
+]

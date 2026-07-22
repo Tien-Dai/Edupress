@@ -1,0 +1,722 @@
+[
+  {
+    "course_title": "NodeJS Pro - Tự Học từ số 0 (MVC, REST APIs, SQL/MongoDB)",
+    "chapter_title": "Các tính năng HOT",
+    "title": "Dự án thực hành 01 (mô hình MVC/SSR/Express/Prisma)",
+    "duration": "05:22",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "NodeJS Pro - Tự Học từ số 0 (MVC, REST APIs, SQL/MongoDB)",
+    "chapter_title": "Các tính năng HOT",
+    "title": "Dự án thực hành 02 (RESTful API với SQL/Prisma, FullStack React/Express)",
+    "duration": "01:48",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "NodeJS Pro - Tự Học từ số 0 (MVC, REST APIs, SQL/MongoDB)",
+    "chapter_title": "Các tính năng HOT",
+    "title": "Dự án thực hành 03 (RESTful API với MongoDB/Mongoose)",
+    "duration": "01:47",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "NodeJS Pro - Tự Học từ số 0 (MVC, REST APIs, SQL/MongoDB)",
+    "chapter_title": "Ôn tập JavaScript/ TypeScript",
+    "title": "Tổng quan về chapter",
+    "duration": "05:22",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "NodeJS Pro - Tự Học từ số 0 (MVC, REST APIs, SQL/MongoDB)",
+    "chapter_title": "Ôn tập JavaScript/ TypeScript",
+    "title": "Sử dụng Var/Let/Const",
+    "duration": "1:47",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "NodeJS Pro - Tự Học từ số 0 (MVC, REST APIs, SQL/MongoDB)",
+    "chapter_title": "Ôn tập JavaScript/ TypeScript",
+    "title": "JavaScript DataType",
+    "duration": "03:35",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "NodeJS Pro - Tự Học từ số 0 (MVC, REST APIs, SQL/MongoDB)",
+    "chapter_title": "Chapter 1: Bắt buộc xem - Không bỏ qua chương học này",
+    "title": "#1. Hướng Dẫn Sử Dụng Khóa Học Hiệu Quả",
+    "duration": "05:21",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "NodeJS Pro - Tự Học từ số 0 (MVC, REST APIs, SQL/MongoDB)",
+    "chapter_title": "Chapter 1: Bắt buộc xem - Không bỏ qua chương học này",
+    "title": "#2 + #3 + #4 : Tài Liệu Khóa Học",
+    "duration": "1:47",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "NodeJS Pro - Tự Học từ số 0 (MVC, REST APIs, SQL/MongoDB)",
+    "chapter_title": "Chapter 1: Bắt buộc xem - Không bỏ qua chương học này",
+    "title": "#5. Demo kết quả đạt được",
+    "duration": "06:07",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Khóa Học NestJS Microservices Thực Chiến: Từ Zero Đến Hero",
+    "chapter_title": "Giới thiệu khóa học & định hướng",
+    "title": "Giới thiệu khoá học",
+    "duration": "10:45",
+    "preview": false,
+    "vid_lectures_url": "https://www.youtube.com/embed/TJD179BP9cc?si=-8HJEsaXaZpb1WF9"
+  },
+  {
+    "course_title": "Khóa Học NestJS Microservices Thực Chiến: Từ Zero Đến Hero",
+    "chapter_title": "Giới thiệu khóa học & định hướng",
+    "title": "Mua khoá học với giá ưu đãi như nào ?",
+    "duration": "01:24",
+    "preview": false,
+    "vid_lectures_url": "https://www.youtube.com/embed/sIVt9O-PmKQ?si=puoPTy5C6s0EYT_y"
+  },
+  {
+    "course_title": "Khóa Học NestJS Microservices Thực Chiến: Từ Zero Đến Hero",
+    "chapter_title": "Giới thiệu khóa học & định hướng",
+    "title": "Lời cảm ơn",
+    "duration": "02:04",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Khóa Học NestJS Microservices Thực Chiến: Từ Zero Đến Hero",
+    "chapter_title": "Giới thiệu Microservices & NestJS",
+    "title": "Giới thiệu tổng quan về Microservices & Monolithic",
+    "duration": "10:50",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Khóa Học NestJS Microservices Thực Chiến: Từ Zero Đến Hero",
+    "chapter_title": "Giới thiệu Microservices & NestJS",
+    "title": "Các kiểu giao tiếp trong Microservices",
+    "duration": "06:34",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Khóa Học NestJS Microservices Thực Chiến: Từ Zero Đến Hero",
+    "chapter_title": "Giới thiệu Microservices & NestJS",
+    "title": "Security trong Microservices",
+    "duration": "12:05",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Khóa Học NestJS Microservices Thực Chiến: Từ Zero Đến Hero",
+    "chapter_title": "Cài đặt Tool, Setup Environment & Project Structure",
+    "title": "Chuẩn bị môi trường phát triển dự án thực chiến",
+    "duration": "07:20",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Khóa Học NestJS Microservices Thực Chiến: Từ Zero Đến Hero",
+    "chapter_title": "Cài đặt Tool, Setup Environment & Project Structure",
+    "title": "Monorepo trong Microservices: Ưu nhược điểm & So sánh với Multirepo",
+    "duration": "11:30",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Khóa Học NestJS Microservices Thực Chiến: Từ Zero Đến Hero",
+    "chapter_title": "Cài đặt Tool, Setup Environment & Project Structure",
+    "title": "Nx Monorepo",
+    "duration": "07:09",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Khóa học NextJS 14-ReactJS-Typescript thực chiến 2024 PRO",
+    "chapter_title": "Giới thiệu về dự án",
+    "title": "Demo kiến thức đạt được khi kết thúc khóa học",
+    "duration": "04:59",
+    "preview": false,
+    "vid_lectures_url": "https://www.youtube.com/embed/TJD179BP9cc?si=-8HJEsaXaZpb1WF9"
+  },
+  {
+    "course_title": "Khóa học NextJS 14-ReactJS-Typescript thực chiến 2024 PRO",
+    "chapter_title": "Giới thiệu về dự án",
+    "title": "Demo danh sách API trong dự án thực chiến",
+    "duration": "19:10",
+    "preview": false,
+    "vid_lectures_url": "https://www.youtube.com/embed/sIVt9O-PmKQ?si=puoPTy5C6s0EYT_y"
+  },
+  {
+    "course_title": "Khóa học NextJS 14-ReactJS-Typescript thực chiến 2024 PRO",
+    "chapter_title": "Giới thiệu về dự án",
+    "title": "Demo dự án thực chiến website bán hàng",
+    "duration": "12:50",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Khóa học NextJS 14-ReactJS-Typescript thực chiến 2024 PRO",
+    "chapter_title": "Những kiến thức JavaScript cần thiết cho khóa học",
+    "title": "Biến, kiểu dữ liệu và sự khác nhau giữa let, const, var trong javascript",
+    "duration": "15:36",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Khóa học NextJS 14-ReactJS-Typescript thực chiến 2024 PRO",
+    "chapter_title": "Những kiến thức JavaScript cần thiết cho khóa học",
+    "title": "Toán tử so sánh, câu điều kiện, và kiểu dữ liệu undefined, null",
+    "duration": "08:50",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Khóa học NextJS 14-ReactJS-Typescript thực chiến 2024 PRO",
+    "chapter_title": "Những kiến thức JavaScript cần thiết cho khóa học",
+    "title": "Hàm và tham số trong javascript",
+    "duration": "06:23",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Khóa học NextJS 14-ReactJS-Typescript thực chiến 2024 PRO",
+    "chapter_title": "Tìm hiểu ReactJS",
+    "title": "Khởi tạo dự án ReactJS và phân tích structure trong ReactJS",
+    "duration": "10:49",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Khóa học NextJS 14-ReactJS-Typescript thực chiến 2024 PRO",
+    "chapter_title": "Tìm hiểu ReactJS",
+    "title": "JSX là gì? Hoạt động như nào?",
+    "duration": "04:25",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Khóa học NextJS 14-ReactJS-Typescript thực chiến 2024 PRO",
+    "chapter_title": "Tìm hiểu ReactJS",
+    "title": "Dom và Virtual Dom là gì?",
+    "duration": "03:53",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "React Pro Max với Next.JS - Làm Chủ React.JS Hiện Đại",
+    "chapter_title": "Các tính năng HOT",
+    "title": "Demo Kết quả đạt được",
+    "duration": "24:38",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "React Pro Max với Next.JS - Làm Chủ React.JS Hiện Đại",
+    "chapter_title": "Các tính năng HOT",
+    "title": "Hướng Dẫn Sử Dụng Udemy Dành Cho Người Mới Bắt Đầu",
+    "duration": "09:44",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "React Pro Max với Next.JS - Làm Chủ React.JS Hiện Đại",
+    "chapter_title": "Các tính năng HOT",
+    "title": "Cách Hỗ Trợ/Support Trong Quá Trình Học (Bắt Buộc Xem)",
+    "duration": "16:42",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "React Pro Max với Next.JS - Làm Chủ React.JS Hiện Đại",
+    "chapter_title": "Next.JS 16 (NEW)",
+    "title": "Tài liệu của Next.js 16",
+    "duration": "00:02",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "React Pro Max với Next.JS - Làm Chủ React.JS Hiện Đại",
+    "chapter_title": "Next.JS 16 (NEW)",
+    "title": "Tổng Quan Về Chapter",
+    "duration": "01:13",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "React Pro Max với Next.JS - Làm Chủ React.JS Hiện Đại",
+    "chapter_title": "Next.JS 16 (NEW)",
+    "title": "Next.js 16 Có Gì Hot ?",
+    "duration": "09:57",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "React Pro Max với Next.JS - Làm Chủ React.JS Hiện Đại",
+    "chapter_title": "Chapter 0: Bắt buộc xem - Không bỏ qua chương học này",
+    "title": "#1. Hướng Dẫn Sử Dụng Khóa Học Hiệu Quả",
+    "duration": "05:21",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "React Pro Max với Next.JS - Làm Chủ React.JS Hiện Đại",
+    "chapter_title": "Chapter 0: Bắt buộc xem - Không bỏ qua chương học này",
+    "title": "#2. Tài liệu khóa học",
+    "duration": "00:01",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "React Pro Max với Next.JS - Làm Chủ React.JS Hiện Đại",
+    "chapter_title": "Chapter 0: Bắt buộc xem - Không bỏ qua chương học này",
+    "title": "#3. Yêu cầu của khóa học",
+    "duration": "05:08",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "React Ultimate - React.JS Cơ Bản Từ Z Đến A Cho Beginners",
+    "chapter_title": "Chapter 0: Các Tính Năng HOT",
+    "title": "Demo kết quả đạt được sau khi kết thúc khóa học",
+    "duration": "03:41",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "React Ultimate - React.JS Cơ Bản Từ Z Đến A Cho Beginners",
+    "chapter_title": "Chapter 0: Các Tính Năng HOT",
+    "title": "Tổng quan về các kiến thức sẽ học",
+    "duration": "05:32",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "React Ultimate - React.JS Cơ Bản Từ Z Đến A Cho Beginners",
+    "chapter_title": "Chapter 0: Các Tính Năng HOT",
+    "title": "Hướng Dẫn Sử Dụng Udemy Dành Cho Người Mới Bắt Đầu",
+    "duration": "09:44",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "React Ultimate - React.JS Cơ Bản Từ Z Đến A Cho Beginners",
+    "chapter_title": "Chapter 1: Bắt buộc xem",
+    "title": "#1. Hướng Dẫn Sử Dụng Khóa Học Hiệu Quả",
+    "duration": "05:21",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "React Ultimate - React.JS Cơ Bản Từ Z Đến A Cho Beginners",
+    "chapter_title": "Chapter 1: Bắt buộc xem",
+    "title": "#2. Hướng dẫn tải tài liệu khóa học",
+    "duration": "00:01",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "React Ultimate - React.JS Cơ Bản Từ Z Đến A Cho Beginners",
+    "chapter_title": "Chapter 1: Bắt buộc xem",
+    "title": "#3. Yêu cầu để học được khóa học này",
+    "duration": "01:38",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "React Ultimate - React.JS Cơ Bản Từ Z Đến A Cho Beginners",
+    "chapter_title": "Chapter 2: Setup Environment",
+    "title": "#7. Cài đặt NodeJS",
+    "duration": "07:38",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "React Ultimate - React.JS Cơ Bản Từ Z Đến A Cho Beginners",
+    "chapter_title": "Chapter 2: Setup Environment",
+    "title": "#8. Cài đặt Visual Studio Code",
+    "duration": "01:30",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "React Ultimate - React.JS Cơ Bản Từ Z Đến A Cho Beginners",
+    "chapter_title": "Chapter 2: Setup Environment",
+    "title": "#9. Cấu hình Visual Studio Code",
+    "duration": "08:29",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Phân tích và trực quan hóa dữ liệu với Tableau",
+    "chapter_title": "Làm quen với Tableau",
+    "title": "Giới thiệu về cách làm quen với Tableau",
+    "duration": "25:00",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Phân tích và trực quan hóa dữ liệu với Tableau",
+    "chapter_title": "Làm quen với Tableau",
+    "title": "Làm quen với Tableau (Thực hành)",
+    "duration": "11:21",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Phân tích và trực quan hóa dữ liệu với Tableau",
+    "chapter_title": "Kết nối và chuẩn bị dữ liệu (Data Preparation)",
+    "title": "Kết nối và chuẩn bị dữ liệu (Data Preparation)",
+    "duration": "22:01",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Phân tích và trực quan hóa dữ liệu với Tableau",
+    "chapter_title": "Kết nối và chuẩn bị dữ liệu (Data Preparation)",
+    "title": "Kết nối và chuẩn bị dữ liệu (Thực hành)",
+    "duration": "09:12",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Phân tích và trực quan hóa dữ liệu với Tableau",
+    "chapter_title": "Trực quan hóa dữ liệu (các biểu đồ cơ bản)",
+    "title": "Tạo các biểu đồ cơ bản",
+    "duration": "15:39",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Phân tích và trực quan hóa dữ liệu với Tableau",
+    "chapter_title": "Trực quan hóa dữ liệu (các biểu đồ cơ bản)",
+    "title": "Tạo các biểu đồ cơ bản (Thực hành)",
+    "duration": "17:15",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Java Web dễ hiểu - Tự làm Website với AI (2025)",
+    "chapter_title": "Giới thiệu và Cài đặt",
+    "title": "Giới thiệu về khóa học",
+    "duration": "01:26",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Java Web dễ hiểu - Tự làm Website với AI (2025)",
+    "chapter_title": "Giới thiệu và Cài đặt",
+    "title": "Tiện ích Từ điển ENVI - Tra cứu tiếng Anh ngay trong tài liệu",
+    "duration": "00:56",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Java Web dễ hiểu - Tự làm Website với AI (2025)",
+    "chapter_title": "Giới thiệu và Cài đặt",
+    "title": "Cài đặt Java Web: JDK, Tomcat, NetBeans",
+    "duration": "15:23",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Java Web dễ hiểu - Tự làm Website với AI (2025)",
+    "chapter_title": "Cấu trúc Java Web",
+    "title": "Mô hình MVC",
+    "duration": "03:00",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Java Web dễ hiểu - Tự làm Website với AI (2025)",
+    "chapter_title": "View",
+    "title": "HTML (HyperText Markup Language)",
+    "duration": "21:21",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Java Web dễ hiểu - Tự làm Website với AI (2025)",
+    "chapter_title": "View",
+    "title": "JSP (Jakarta Server Pages)",
+    "duration": "19:37",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Java Web dễ hiểu - Tự làm Website với AI (2025)",
+    "chapter_title": "View",
+    "title": "JSTL (Jakarta Standard Tag Library), EL (Expression Language)",
+    "duration": "29:06",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Optimize Frontend for Beginner (Vietnamese)",
+    "chapter_title": "Giới thiệu khóa học",
+    "title": "Tổng quan khóa học",
+    "duration": "1:00",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Optimize Frontend for Beginner (Vietnamese)",
+    "chapter_title": "Cài đặt môi trường & công cụ",
+    "title": "Giới thiệu môi trường phát triển",
+    "duration": "10:00",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Optimize Frontend for Beginner (Vietnamese)",
+    "chapter_title": "Cài đặt môi trường & công cụ",
+    "title": "Cài đặt NodeJS và NPM",
+    "duration": "20:00",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Optimize Frontend for Beginner (Vietnamese)",
+    "chapter_title": "Cài đặt môi trường & công cụ",
+    "title": "Thiết lập IDE và cấu hình project",
+    "duration": "15:00",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Optimize Frontend for Beginner (Vietnamese)",
+    "chapter_title": "Chương 1: Gốc rễ tối ưu",
+    "title": "Critical Rendering Path",
+    "duration": "17:40",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Optimize Frontend for Beginner (Vietnamese)",
+    "chapter_title": "Chương 1: Gốc rễ tối ưu",
+    "title": "Blocking Resource - Render Blocking",
+    "duration": "06:36",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Optimize Frontend for Beginner (Vietnamese)",
+    "chapter_title": "Chương 1: Gốc rễ tối ưu",
+    "title": "Blocking Resource - Parser Blocking",
+    "duration": "09:12",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "The Web Developer Bootcamp 2025",
+    "chapter_title": "Course Orentation",
+    "title": "Welcome To The Course!",
+    "duration": "03:47",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "The Web Developer Bootcamp 2025",
+    "chapter_title": "Course Orentation",
+    "title": "Joining The Community Chat & Groups",
+    "duration": "00:27",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "The Web Developer Bootcamp 2025",
+    "chapter_title": "Course Orentation",
+    "title": "Curriculum Walkthrough",
+    "duration": "04:12",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "The Web Developer Bootcamp 2025",
+    "chapter_title": "An Introduction To Web Development",
+    "title": "What Matters In This Section?",
+    "duration": "03:28",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "The Web Developer Bootcamp 2025",
+    "chapter_title": "An Introduction To Web Development",
+    "title": "The Internet in 5 Minutes",
+    "duration": "05:42",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "The Web Developer Bootcamp 2025",
+    "chapter_title": "An Introduction To Web Development",
+    "title": "Intro to the Web",
+    "duration": "06:01",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "The Web Developer Bootcamp 2025",
+    "chapter_title": "HTML: The Essentials",
+    "title": "What Matters In This Section",
+    "duration": "02:12",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "The Web Developer Bootcamp 2025",
+    "chapter_title": "HTML: The Essentials",
+    "title": "Introduction to HTML",
+    "duration": "06:55",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "The Web Developer Bootcamp 2025",
+    "chapter_title": "HTML: The Essentials",
+    "title": "Our Very First HTML Page",
+    "duration": "05:33",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Git a Web Developer Job: Mastering the Modern Workflow",
+    "chapter_title": "Welcome!",
+    "title": "Course Overview",
+    "duration": "07:44",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Git a Web Developer Job: Mastering the Modern Workflow",
+    "chapter_title": "Git Essentials",
+    "title": "What is Git?",
+    "duration": "09:16",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Git a Web Developer Job: Mastering the Modern Workflow",
+    "chapter_title": "Git Essentials",
+    "title": "See Git in Action",
+    "duration": "14:57",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Git a Web Developer Job: Mastering the Modern Workflow",
+    "chapter_title": "Git Essentials",
+    "title": "Important Note About Text Editing Software",
+    "duration": "01:08",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Git a Web Developer Job: Mastering the Modern Workflow",
+    "chapter_title": "Intro to Node.js & NPM",
+    "title": "The Need for Automation and Organization",
+    "duration": "07:14",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Git a Web Developer Job: Mastering the Modern Workflow",
+    "chapter_title": "Intro to Node.js & NPM",
+    "title": "A Quick Note",
+    "duration": "00:44",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Git a Web Developer Job: Mastering the Modern Workflow",
+    "chapter_title": "Intro to Node.js & NPM",
+    "title": "Node.js Introduction",
+    "duration": "19:56",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Phân tích dữ liệu bằng R cho người mới bắt đầu",
+    "chapter_title": "Giới thiệu",
+    "title": "Giới thiệu về bản thân",
+    "duration": "01:12",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Phân tích dữ liệu bằng R cho người mới bắt đầu",
+    "chapter_title": "Giới thiệu",
+    "title": "Khóa học này dành cho ai?",
+    "duration": "01:02",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Phân tích dữ liệu bằng R cho người mới bắt đầu",
+    "chapter_title": "Giới thiệu",
+    "title": "Tại sao bạn nên học khóa học này?",
+    "duration": "00:56",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Phân tích dữ liệu bằng R cho người mới bắt đầu",
+    "chapter_title": "Giới thiệu về phân tích dữ liệu",
+    "title": "Giới thiệu",
+    "duration": "00:31",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Phân tích dữ liệu bằng R cho người mới bắt đầu",
+    "chapter_title": "Giới thiệu về phân tích dữ liệu",
+    "title": "Dữ liệu là gì?",
+    "duration": "01:23",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Phân tích dữ liệu bằng R cho người mới bắt đầu",
+    "chapter_title": "Giới thiệu về phân tích dữ liệu",
+    "title": "Phân tích dữ liệu là gì?",
+    "duration": "01:04",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Phân tích dữ liệu bằng R cho người mới bắt đầu",
+    "chapter_title": "Phần mềm R và Rstudio",
+    "title": "Giới thiệu",
+    "duration": "01:27",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Phân tích dữ liệu bằng R cho người mới bắt đầu",
+    "chapter_title": "Phần mềm R và Rstudio",
+    "title": "Phần mềm R và RStudio là gì?",
+    "duration": "03:57",
+    "preview": false,
+    "vid_lectures_url": null
+  },
+  {
+    "course_title": "Phân tích dữ liệu bằng R cho người mới bắt đầu",
+    "chapter_title": "Phần mềm R và Rstudio",
+    "title": "Cài đặt phần mềm R và RStudio trên máy Mac",
+    "duration": "07:57",
+    "preview": false,
+    "vid_lectures_url": null
+  }
+]

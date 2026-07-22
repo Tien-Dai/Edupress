@@ -1,0 +1,106 @@
+{
+  "common": {
+    "home": "Trang chủ",
+    "login": "Đăng nhập",
+    "logout": "Đăng xuất"
+  },
+  "header": {
+        "nav1": "Trang chủ",
+        "nav2": "Khóa học",
+        "nav3": "Bài viết",
+        "nav4": "Về EduPress",
+        "nav5": "Liên hệ",
+        "mycourse": "Khóa học của tôi",
+        "search": "Tìm kiếm",
+        "slogan" : "Nền tảng học trực tuyến",
+        "login": "Đăng nhập",
+        "register": "Đăng ký",
+        "logout": "Đăng xuất",
+        "chechkoutHistory": "Lịch sử giao dịch",
+        "changepassword": "Đổi mật khẩu",
+        "notification": "Thông báo"
+      },
+  "home":{
+    "banner":{
+      "title1": "Học nhanh",
+      "title2": "Làm chủ kỹ năng!",
+      "content": "Xây dựng sự nghiệp vững chắc với các khóa học thực tiễn được biên soạn bởi chuyên gia hàng đầu trong từng lĩnh vực.",
+      "button": "Khám phá ngay "
+    },
+    "title_Home":{
+      "title_1":{
+        "title": "Danh mục khóa học",
+        "description": "Khám phá tất cả danh mục của chúng tôi"
+      },
+      "title_2":{
+        "title": "Khóa học nổi bật",
+        "description": "Khám phá các khóa học nổi bật"
+      },
+      "title_3":{
+        "title": "Khóa học mới",
+        "description": "Khám phá các khóa học mới nhất"
+      },
+      "title_4":{
+        "title": "Phát triển web",
+        "description": "Khám phá lĩnh vực phát triển web"
+      },
+      "title_5":{
+        "title": "Khoa học dữ liệu",
+        "description": "Khám phá các khóa học "
+      },
+      "btn": "Xem tất cả"
+    },
+    "banner_Small":{
+      "title_small": "KHÁM PHÁ KIẾN THỨC MỖI NGÀY",
+      "title_big": "Nâng cấp kỹ năng – Sẵn sàng cho sự nghiệp",
+      "content": "Khóa học thực hành về lập trình, thiết kế và kỹ năng số. Học mọi lúc, mọi nơi cùng chuyên gia trong ngành."
+    },
+    "overview_instructor": {
+      "box_overview": {
+        "box_1": "Học viên",
+        "box_2": "Khóa học",
+        "box_3": "Giảng viên giỏi",
+        "box_4": "Hài lòng học viên"
+      },
+      "box_instructor": {
+        "title": "Trở thành giảng viên trên EduPress",
+        "description": "EduPress là nền tảng giúp bạn chia sẻ kiến thức, xây dựng thương hiệu cá nhân và tạo thu nhập bền vững thông qua các khóa học trực tuyến chất lượng cao.",
+        "benefits": {
+          "benefit_1": "Đăng tải và quản lý khóa học dễ dàng.",
+          "benefit_2": "Tiếp cận hàng nghìn học viên tiềm năng.",
+          "benefit_3": "Chủ động thời gian giảng dạy và nội dung.",
+          "benefit_4": "Nhận thu nhập minh bạch từ khóa học."
+        },
+        "button": "Đăng ký ngay"
+      },
+      "btn": "Đăng ký ngay"
+    }
+
+  },
+  "footer": {
+    "about": {
+      "brand": "EduPress",
+      "description": "EduPress kết nối học viên với chuyên gia uy tín, cung cấp các khóa học chất lượng cao về công nghệ, kỹ năng mềm và phát triển nghề nghiệp. Học mọi lúc, mọi nơi để sẵn sàng cho tương lai."
+    },
+    "support": {
+      "title": "Hỗ trợ",
+      "contact": "Liên hệ",
+      "faq": "Hỏi đáp thường gặp",
+      "policy": "Chính sách & Điều khoản"
+    },
+    "programs": {
+      "title": "Chương trình học",
+      "web": "Phát triển Web",
+      "data": "Khoa học Dữ liệu",
+      "mobile": "Ứng dụng Di động",
+      "all": "Tất cả chương trình"
+    },
+    "contact": {
+      "title": "Liên hệ",
+      "address": "Địa chỉ: 18 Phố Viên - Phường Đông Ngạc - Quận Bắc Từ Liêm - Hà Nội",
+      "phone": "Điện thoại: (0123) 456-789",
+      "email": "Email: hotro@edupress.vn"
+    },
+    "copyright": "© 2025 EduPress | Nền tảng học trực tuyến cho thế hệ chuyên nghiệp"
+  }
+}

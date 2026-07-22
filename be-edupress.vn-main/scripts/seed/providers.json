@@ -1,0 +1,110 @@
+[
+  {
+    "id": 0,
+    "user_id": 1,
+    "provider_name": "Hỏi dân IT với Eric",
+    "career": "Lập trình",
+    "email": "hoidanit123@gmail.com",
+    "images": [
+      "images/sigma_180.png"
+    ],
+    "status": "approved",
+    "_id": "697a15cedc7d4ff101def349"
+  },
+  {
+    "id": 1,
+    "user_id": 1,
+    "provider_name": "Đỗ Tấn Thành",
+    "career": "Lập trình",
+    "email": "dtt12@gmail.com",
+    "images": [
+      "images/sigma_180.png"
+    ],
+    "status": "approved",
+    "_id": "697a15ecdc7d4ff101def359"
+  },
+  {
+    "id": 2,
+    "user_id": 3,
+    "provider_name": "Khánh Nguyễn",
+    "career": "Lập trình",
+    "email": "kn123@gmail.com",
+    "images": [
+      "images/sigma_180.png"
+    ],
+    "status": "approved",
+    "_id": "697a162ddc7d4ff101def369"
+  },
+  {
+    "id": 3,
+    "user_id": 4,
+    "provider_name": "Lam Nguyen",
+    "career": "Nghiên cứu với Khoa học dữ liệu",
+    "email": "kn123@gmail.com",
+    "images": [
+      "images/sigma_180.png"
+    ],
+    "status": "approved",
+    "_id": "697a1643dc7d4ff101def379"
+  },
+  {
+    "id": 4,
+    "user_id": 5,
+    "provider_name": "Chức nguyễn Văn",
+    "career": "Nghiên cứu",
+    "email": "kn123@gmail.com",
+    "images": [
+      "images/sigma_180.png"
+    ],
+    "status": "approved",
+    "_id": "697a1653dc7d4ff101def389"
+  },
+  {
+    "id": 5,
+    "user_id": 6,
+    "provider_name": "Hiệp EZSE",
+    "career": "Lập trình",
+    "email": "kn123@gmail.com",
+    "images": [
+      "images/sigma_180.png"
+    ],
+    "status": "approved",
+    "_id": "697a1660dc7d4ff101def392"
+  },
+  {
+    "id": 6,
+    "user_id": 7,
+    "provider_name": "Thiện Phạm Đình",
+    "career": "Lập trình web",
+    "email": "pdth12@gmail.com",
+    "images": [
+      "images/sigma_180.png"
+    ],
+    "status": "approved",
+    "_id": "697a1674dc7d4ff101def3a2"
+  },
+  {
+    "id": 7,
+    "user_id": 8,
+    "provider_name": "Colt Steele",
+    "career": "Lập trình web",
+    "email": "colt22@gmail.com",
+    "images": [
+      "images/sigma_180.png"
+    ],
+    "status": "approved",
+    "_id": "697a1680dc7d4ff101def3ab"
+  },
+  {
+    "id": 8,
+    "user_id": 9,
+    "provider_name": "Brad Schiff",
+    "career": "Development Web",
+    "email": "brad11@gmail.com",
+    "images": [
+      "images/sigma_180.png"
+    ],
+    "status": "approved",
+    "_id": "697a16c43eb931e94596149f"
+  }
+]
