@@ -8,7 +8,7 @@ import BoxShowCourseInfo from "./BoxShowCourseInfo/BoxShowCourseInfo.jsx";
 import BoxShowCourseRequest from "./BoxShowCourseRequest/BoxShowCourseRequest.jsx";
 import BoxShowCourseOverview from "./BoxShowCourseOverview/BoxShowCourseOverview.jsx";
 import useFetchCourseDetail from "../../../../hooks/useCourse/useFetchCourseDetail.js";
-import BoxShowCourseSection from "./BoxshowCourseSection/BoxShowCourseSection.jsx";
+import BoxShowCourseSection from "./BoxShowCourseSection/BoxShowCourseSection.jsx";
 
 
 export default function BoxShowDetailCourse() {
