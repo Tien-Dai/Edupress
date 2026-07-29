@@ -20,21 +20,30 @@ const useFetchData = (nameResource) => {
 
         let result = [];
 
-        switch (nameResource) {
-          case "categories":
-            result = res.data.categories || [];
-            break;
-
-          case "courses":
-            result = res.data.data || [];
-            break;
-
-          default:
-            result = res.data.data || [];
+        // Nếu API trả về trực tiếp là mảng
+        if (Array.isArray(res.data)) {
+          result = res.data;
+        }
+        // Nếu API trả về { data: [...] }
+        else if (Array.isArray(res.data.data)) {
+          result = res.data.data;
+        }
+        // Nếu API trả về { categories: [...] }
+        else if (Array.isArray(res.data.categories)) {
+          result = res.data.categories;
+        }
+        // Nếu API trả về { sections: [...] }
+        else if (Array.isArray(res.data.sections)) {
+          result = res.data.sections;
+        }
+        // Nếu API trả về { lectures: [...] }
+        else if (Array.isArray(res.data.lectures)) {
+          result = res.data.lectures;
         }
 
         setData(result);
       } catch (err) {
+        console.error(err);
         setError(err);
         setData([]);
       } finally {

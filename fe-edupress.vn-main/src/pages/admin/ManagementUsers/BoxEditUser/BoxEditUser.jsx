@@ -1,57 +1,61 @@
 import { useEffect, useState } from "react";
 import { Modal, Form, Input, Button, Alert } from "antd";
-import axios from "axios";
-
-const API_URL =
-  "https://mindx-mockup-server.vercel.app/api/resources/users";
+import { api } from "../../../../api/api";
 
 const BoxEditUser = ({ record, refetch }) => {
   const [open, setOpen] = useState(false);
   const [form] = Form.useForm();
-  const [message, setMessage] = useState({ type: "", content: "" });
+  const [message, setMessage] = useState({
+    type: "",
+    content: "",
+  });
   const [loading, setLoading] = useState(false);
 
   const showModal = () => {
-    setMessage({ type: "", content: "" });
+    setMessage({
+      type: "",
+      content: "",
+    });
     setOpen(true);
   };
 
-  // 👉 Fill data khi mở modal
   useEffect(() => {
     if (record && open) {
       form.setFieldsValue({
         email: record.email,
         username: record.username,
-        password: record.password,
+        password: "",
       });
     }
   }, [record, open, form]);
 
   const handleUpdate = async (values) => {
     setLoading(true);
-    setMessage({ type: "", content: "" });
+    setMessage({
+      type: "",
+      content: "",
+    });
 
     try {
-      await axios.put(
-        `${API_URL}/${record._id}?apiKey=6957348a9dda81df11d0c527`,
-        {
-          ...record,
-          ...values,
-        }
-      );
+      await api.put(`/users/${record._id}`, {
+        ...record,
+        ...values,
+      });
 
       setMessage({
         type: "success",
         content: "Cập nhật thành công!",
       });
 
-      refetch();        // reload table
+      refetch();
+
       setTimeout(() => {
-        setOpen(false); // đóng modal
+        setOpen(false);
         form.resetFields();
       }, 800);
-    
     } catch (error) {
+      console.log(error);
+
       setMessage({
         type: "error",
         content: "Cập nhật thất bại!",
@@ -63,12 +67,19 @@ const BoxEditUser = ({ record, refetch }) => {
 
   return (
     <>
-      <button 
+      <button
         className="
-          bg-blue-500 text-white px-4 py-2 rounded-md cursor-pointer
-            transform transition duration-300 ease-in-out hover:scale-95 hover:opacity-65
+          bg-blue-500
+          text-white
+          px-4
+          py-2
+          rounded-md
+          cursor-pointer
+          transition
+          hover:opacity-80
         "
-        onClick={showModal}>
+        onClick={showModal}
+      >
         Sửa
       </button>
 
@@ -76,6 +87,7 @@ const BoxEditUser = ({ record, refetch }) => {
         open={open}
         onCancel={() => setOpen(false)}
         footer={null}
+        destroyOnClose
       >
         <h1 className="text-[20px] font-semibold mb-4">
           Chỉnh sửa tài khoản
@@ -91,8 +103,14 @@ const BoxEditUser = ({ record, refetch }) => {
             label="Email"
             name="email"
             rules={[
-              { required: true, message: "Vui lòng nhập email!" },
-              { type: "email", message: "Email không hợp lệ!" },
+              {
+                required: true,
+                message: "Vui lòng nhập email!",
+              },
+              {
+                type: "email",
+                message: "Email không hợp lệ!",
+              },
             ]}
           >
             <Input />
@@ -101,7 +119,12 @@ const BoxEditUser = ({ record, refetch }) => {
           <Form.Item
             label="Tên người dùng"
             name="username"
-            rules={[{ required: true }]}
+            rules={[
+              {
+                required: true,
+                message: "Vui lòng nhập tên người dùng!",
+              },
+            ]}
           >
             <Input />
           </Form.Item>
@@ -109,28 +132,34 @@ const BoxEditUser = ({ record, refetch }) => {
           <Form.Item
             label="Mật khẩu"
             name="password"
-            rules={[{ required: true, min: 6 }]}
+            rules={[
+              {
+                min: 6,
+                message: "Mật khẩu tối thiểu 6 ký tự!",
+              },
+            ]}
           >
-            <Input.Password />
+            <Input.Password placeholder="Để trống nếu không đổi mật khẩu" />
           </Form.Item>
 
           {message.content && (
-              <Alert
-                  type={message.type}
-                  showIcon
-                  className="mb-3"
-                  description={<span className="text-[12px]">{message.content}</span>}
-              />
+            <Alert
+              type={message.type}
+              showIcon
+              className="mb-3"
+              message={message.content}
+            />
           )}
 
-          <Form.Item className="custom-form-item">
-              <Button
-                  htmlType="submit"
-                  loading={loading}
-                  className="custom-btn w-full"
-              >
-                  Xác nhận sửa
-              </Button>
+          <Form.Item>
+            <Button
+              type="primary"
+              htmlType="submit"
+              loading={loading}
+              block
+            >
+              Xác nhận sửa
+            </Button>
           </Form.Item>
         </Form>
       </Modal>

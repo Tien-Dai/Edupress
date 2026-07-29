@@ -24,7 +24,7 @@ const MyCoursePage = () => {
         setError("");
 
         const res = await axios.get(
-          `http://localhost:8080/enrollments/user/${user._id}`
+          `https://edupress-be.onrender.com/enrollments/user/${user._id}`
         );
 
         console.log("ENROLLMENT RESPONSE:", res.data);

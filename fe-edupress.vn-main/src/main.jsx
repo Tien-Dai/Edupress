@@ -35,7 +35,7 @@ import ManagementUsers from "./pages/admin/ManagementUsers/ManagementUsers.jsx";
 import ManagementCourse from "./pages/admin/ManagementCourse/ManagementCourse.jsx";
 import BoxShowDetailCourse from "./pages/admin/ManagementCourse/BoxShowDetailCourse/BoxShowDetailCourse.jsx";
 import ManagementRegisterProvider from "./pages/admin/ManagementRegisterProvider/ManagementRegisterProvider.jsx";
-
+import ManagementStudent from "./pages/admin/ManagementStudent/ManagementStudent.jsx";
 const queryClient = new QueryClient();
 
 createRoot(document.getElementById("root")).render(
@@ -109,6 +109,15 @@ createRoot(document.getElementById("root")).render(
                 element={
                   <PrivateRoute roles={["admin"]}>
                     <ManagementUsers />
+
+                  </PrivateRoute>
+                }
+              />
+              <Route
+                path="students"
+                element={
+                  <PrivateRoute roles={["admin", "provider"]}>
+                    <ManagementStudent />
                   </PrivateRoute>
                 }
               />

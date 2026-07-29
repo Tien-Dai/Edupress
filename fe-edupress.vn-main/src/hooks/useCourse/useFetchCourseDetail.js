@@ -6,7 +6,7 @@ const useFetchCourseDetail = (courseId) => {
     queryKey: ["courses", courseId],
     queryFn: async () => {
       const res = await axios.get(
-        `http://localhost:8080/courses/${courseId}`
+        `https://edupress-be.onrender.com/courses/${courseId}`
       );
       return res.data;
     },
