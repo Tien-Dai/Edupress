@@ -2,11 +2,9 @@ import mongoose from "mongoose";
 
 import EnrollmentModel from "../models/enrollment.js";
 import PaymentModel from "../models/payment.js";
+import courseModel from "../models/course/course.js";
+import providerModel from "../models/provider.js";
 
-// ==========================================
-// TẠO ENROLLMENT
-// POST /enrollments
-// ==========================================
 export const createEnrollment = async (req, res) => {
   try {
     const {
@@ -477,3 +475,20 @@ export const updateProgress =
       });
     }
   };
+  export const getStudents = async (req, res) => {
+  try {
+    const students = await EnrollmentModel.find()
+      .populate("user_id", "username email")
+      .populate("course_id", "course_title");
+
+    return res.status(200).json({
+      success: true,
+      data: students,
+    });
+  } catch (error) {
+    return res.status(500).json({
+      success: false,
+      message: error.message,
+    });
+  }
+};

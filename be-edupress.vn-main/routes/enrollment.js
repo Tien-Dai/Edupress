@@ -6,6 +6,7 @@ import {
   getEnrollmentsByUser,
   checkEnrollment,
   updateProgress,
+  getStudents,
 } from "../controllers/enrollment.js";
 
 const routerEnrollment =
@@ -39,6 +40,10 @@ routerEnrollment.get(
 routerEnrollment.put(
   "/enrollments/:id/progress",
   updateProgress
+);
+routerEnrollment.get(
+    "/students",
+    getStudents
 );
 
 export default routerEnrollment;
