@@ -368,11 +368,6 @@ export const markPaymentPaid = async (req, res) => {
   }
 };
 
-
-// ======================================================
-// LẤY TẤT CẢ PAYMENT
-// GET /payments
-// ======================================================
 export const getPayments = async (req, res) => {
   try {
 
@@ -412,11 +407,6 @@ export const getPayments = async (req, res) => {
   }
 };
 
-
-// ======================================================
-// LẤY PAYMENT THEO USER
-// GET /payments/user/:userId
-// ======================================================
 export const getPaymentsByUser = async (req, res) => {
   try {
 
@@ -463,11 +453,6 @@ export const getPaymentsByUser = async (req, res) => {
   }
 };
 
-
-// ======================================================
-// LẤY CHI TIẾT PAYMENT
-// GET /payments/:id
-// ======================================================
 export const getPaymentById = async (req, res) => {
   try {
 

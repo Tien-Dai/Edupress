@@ -82,10 +82,6 @@ const ButtonCheckout = ({
 
       // ==============================
       // 4. GỌI BACKEND THANH TOÁN
-      // Backend sẽ:
-      // - tạo payment
-      // - tạo enrollment
-      // - status = paid
       // ==============================
       const response = await api.post(
         "/payment/checkout",
@@ -116,16 +112,18 @@ const ButtonCheckout = ({
       }
 
       // ==============================
-      // 7. THÔNG BÁO
+      // 7. THÔNG BÁO THANH TOÁN THÀNH CÔNG
       // ==============================
       message.success(
         "Thanh toán thành công! Bạn đã có thể học khóa học."
       );
 
       // ==============================
-      // 8. CHUYỂN TRANG
+      // 8. ĐỢI 3 GIÂY RỒI VỀ TRANG CHỦ
       // ==============================
-      nav("/checkout-success");
+      setTimeout(() => {
+        nav("/");
+      }, 3000);
 
     } catch (error) {
       console.error(
